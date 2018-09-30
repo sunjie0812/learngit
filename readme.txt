@@ -11,7 +11,7 @@ Creating an new branch is quick and simple.
 <<<<<<< HEAD
 This is a green apple.
 =======
-This is a green apple.
+This is a green+red apple.
 >>>>>>> feature2
 <<<<<<< HEAD
 this is my seconde code. 
