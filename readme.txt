@@ -8,3 +8,4 @@ Creating an new branch is quick and simple.
 =======
 Creating an new branch is quick and simple.
 >>>>>>> featurel
+This is a red apple.
