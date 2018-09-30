@@ -13,4 +13,8 @@ This is a green apple.
 =======
 This is a green apple.
 >>>>>>> feature2
-this is 
+<<<<<<< HEAD
+this is my seconde code. 
+=======
+This is my first code.
+>>>>>>> feature3
