@@ -13,3 +13,4 @@ This is a green apple.
 =======
 This is a green apple.
 >>>>>>> feature2
+this is 
