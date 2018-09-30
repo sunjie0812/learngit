@@ -8,4 +8,8 @@ Creating an new branch is quick and simple.
 =======
 Creating an new branch is quick and simple.
 >>>>>>> featurel
+<<<<<<< HEAD
 This is a green apple.
+=======
+This is a green apple.
+>>>>>>> feature2
