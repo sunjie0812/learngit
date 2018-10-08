@@ -21,3 +21,4 @@ This is my first code.
 this is dev branch.
 my money...
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
