@@ -20,3 +20,4 @@ This is my first code.
 >>>>>>> feature3
 this is dev branch.
 my money...
+Creating a new branch is quick.
